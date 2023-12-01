@@ -1,0 +1,8 @@
+node_modules/
+*.log
+*.tsbuildinfo
+/dist/
+/.pnpm-store/
+dist
+.env
+tmp.patch

@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "yaml.schemas": {
+    "./schemas/ai-config-schema.json": "ai.config.yml"
+  }
+}
